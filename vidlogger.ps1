@@ -1,0 +1,1 @@
+# PowerShell script that captures screen and sends to Discord
